@@ -1,25 +1,11 @@
-## Pseudo
-Maestro Yoyo
+## Maestro Yoyo
 
-## Domaine d'expertise
-- Informatique réseau et systèmes
-- Cybersécurité
-- Programmation junior
+🐍 Projet de dev en Python
 
-## Projets
-- Projet de dev en Python
-- Gaming et développement sur ARMA3
-- Membre de la Team 1er-RPIMA [Discord](https://discord.gg/un572h7r)
+🎮 Gaming et développement sur ARMA3
 
-## Compétences
-- Bash
-- Python
-- HTML
-- CSS
-- FLASK
-- TailwindCSS
+⚡ Membre de la Team 1er-RPIMA
 
-## Objectifs
-- Contribuer à des projets open-source
-- Améliorer mes compétences en programmation et en cybersécurité
-- Partager mes connaissances avec la communauté
+![Imgur](https://imgur.com/m1NC51l.png)
+
+Lien vers le [Discord](https://discord.gg/un572h7r)
