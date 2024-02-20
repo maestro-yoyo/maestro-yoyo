@@ -1,10 +1,14 @@
 ## Maestro Yoyo
 
-🐍 Projet de dev en Python
+🐍 Dev en Python
+
+🔒 Cybersécurité
+
+💻 Réseaux et systèmes 
 
 🎮 Gaming et développement sur ARMA3
 
-⚡ Membre de la Team 1er-RPIMA
+⚡ Team 1er-RPIMA
 
 ![Imgur](https://imgur.com/m1NC51l.png)
 
